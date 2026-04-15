@@ -1,0 +1,14 @@
+--- expected
++++ actual
+@@ -1,6 +1,6 @@
+-Initial order state: PLACED
+-Order state updated to: PROCESSED
+-Order state updated to: SHIPPED
+-Order state updated to: DELIVERED
+-Order is already in a final state.
++PLACED
++PROCESSED
++SHIPPED
++DELIVERED
++Comanda este in stare finala.
+ User quit the program.
